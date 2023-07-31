@@ -9,7 +9,7 @@ public class HomeController {
 	
 	@RequestMapping(value = "/matheasy.do")
 	public String home() {
-		System.out.println("홈화면");
+		System.out.println("홈화면입니다~");
 		return "home";
 	}
 	
