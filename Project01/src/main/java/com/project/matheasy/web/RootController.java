@@ -10,14 +10,13 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 import com.project.matheasy.service.ContVo;
 import com.project.matheasy.service.Pager;
-import com.project.matheasy.service.contService;
-import com.project.matheasy.service.impl.service;
+import com.project.matheasy.service.ContService;
 
 @Controller
 public class RootController {
 
 	@Autowired
-	contService service;
+	ContService service;
 	
 	
 	// 메인화면

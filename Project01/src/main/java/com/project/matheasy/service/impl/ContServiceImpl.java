@@ -7,10 +7,10 @@ import org.springframework.stereotype.Service;
 
 import com.project.matheasy.service.ContVo;
 import com.project.matheasy.service.Pager;
-import com.project.matheasy.service.contService;
+import com.project.matheasy.service.ContService;
 
 @Service
-public class contServiceImpl implements contService {
+public class ContServiceImpl implements ContService {
 
 	@Autowired
 	ContDao dao;
