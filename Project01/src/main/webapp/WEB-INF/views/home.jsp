@@ -12,6 +12,7 @@
     <script src="resources/js/pro.js"></script>
     <link rel="stylesheet" href="resources/css/reset.css">
     <link rel="stylesheet" href="resources/css/pro_css.css">
+    
     <title></title>
 </head>
 <body>
